@@ -1,0 +1,25 @@
+{
+    "categories": [{
+            "name": "Beers",
+            "items": [
+                { "name": "Classic Pilsner", "price": 45 },
+                { "name": "IPA", "price": 55 },
+                { "name": "Wheat Beer", "price": 50 }
+            ]
+        },
+        {
+            "name": "Cocktails",
+            "items": [
+                { "name": "Mojito", "price": 80 },
+                { "name": "Gin & Tonic", "price": 75 }
+            ]
+        },
+        {
+            "name": "Snacks",
+            "items": [
+                { "name": "Fries", "price": 35 },
+                { "name": "Nuts", "price": 25 }
+            ]
+        }
+    ]
+}
